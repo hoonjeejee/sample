@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "userId": "cu",
+      "userName": "편의돌",
+      "email": "abc@gmail.com",
+      "hobby": "숨쉬기"
+    },
+    {
+      "userId": "이마트.편의점",
+      "userName": "이용돌",
+      "email": "emart_ag@gmail.com",
+      "hobby": "달리기"
+    },
+    {
+      "userId": "GS",
+      "userName": "지삼순",
+      "email": "gs_live@gmail.com",
+      "hobby": "걷기"
+    }
+  ]
+}

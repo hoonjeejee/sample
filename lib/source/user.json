@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "cha",
+    "user_name": "suyeon",
+    "email": "suyeon@gmail.com",
+    "hobby": ["yoga", "dancing"]
+  },
+  {
+    "user_id": "sudo",
+    "user_name": "linuxer",
+    "email": "linuxer@gmail.com",
+    "hobby": ["breath", "eating"]
+  },
+  {
+    "user_id": "youngman",
+    "user_name": "sadert",
+    "email": "sadert@gmail.com",
+    "hobby": ["yomi", "watching tv"]
+  }
+]
